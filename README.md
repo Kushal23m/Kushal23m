@@ -106,7 +106,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Kushal_MJ&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Kushal23m&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ---
@@ -114,7 +114,7 @@
 ## ❤️ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/kushal_mj">
+  <a href="https://www.buymeacoffee.com/kush23">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
 </p>
